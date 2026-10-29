@@ -317,7 +317,7 @@ The QR scanner:
 ##  Quick Start
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/shiny-git/visitor-management
 
 cd visitor_management
 
